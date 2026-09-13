@@ -22,7 +22,7 @@ To run this project on your local machine, follow these steps:
 
 **1. Clone the repository**
 '''bash
-git clone (https://github.com/JackWong-py/simple-weather-app.git)
+git clone (https://github.com/JackWong-py/simple-weather.git)
 cd simple-weather-app
 
 **2. Install dependencies**
